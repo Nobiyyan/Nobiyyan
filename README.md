@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 I'm currently a student at SMAN 1 Cimahi.  <br>- 💻 I'm currently learning **Web Development, Python, and Git/GitHub**.  <br>- 💬 Ask me about **coding, tech-related stuff, or anything!**  <br>- 🎸 Fun fact: I love music and playing guitar!  <br>
+- 🎓 I'm currently a student at Universitas Pendidikan Indonesia.  <br>- 💻 I'm currently learning **Web Development, Python, and Git/GitHub**.  <br>- 💬 Ask me about **coding, tech-related stuff, or anything!**  <br>- 🎸 Fun fact: I love music and playing guitar!  <br>
 
 
 ## 🌐 Socials:
