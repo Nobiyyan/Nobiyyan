@@ -14,8 +14,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nobiyyan&show_icons=true&theme=calm_pink" alt="Nobiyyan's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nobiyyan&theme=calm_pink" alt="GitHub Streak" />
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Nobiyyan&layout=compact&theme=calm_pink" />
+
 </p>
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Nobiyyan&layout=compact&theme=calm_pink" />
 
 ## 🚀 Activity Graph 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Nobiyyan&theme=react-dark&bg_color=ffffff00&hide_border=true)
