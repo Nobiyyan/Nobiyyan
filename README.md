@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobiyyan&layout=compact&theme=calm_pink" alt="Top Languages" />
 </p>
 
-## 🚀 Activity Graph (Pengganti Trophies yang Rusak)
+## 🚀 Activity Graph 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Nobiyyan&theme=react-dark&bg_color=ffffff00&hide_border=true)
 
 ## 🛠️ Contribution Archive
