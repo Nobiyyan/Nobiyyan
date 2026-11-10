@@ -13,26 +13,27 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nobiyyan&show_icons=true&theme=calm_pink" alt="Nobiyyan's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nobiyyan&theme=calm-pink" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nobiyyan&theme=radical" alt="Profile Details" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Nobiyyan&theme=calm-pink" alt="GitHub Streak" width="49%" />
 </p>
+
+## 🧠 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobiyyan&layout=compact&hide_progress=true&theme=calm_pink" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nobiyyan&theme=radical" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nobiyyan&theme=radical" alt="Most Commit Language" width="49%" />
 </p>
 
-## 🚀 Activity Graph
+## 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nobiyyan&theme=react-dark&bg_color=ffffff00&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/ff69b4/Nobiyyan" alt="Nobiyyan's Contribution Graph" width="95%" />
 </p>
-
-## 🛠️ Contribution Archive
-
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Happy%20Coding!&fontSize=50)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nobiyyan&style=flat" alt="Visit Count" />
 </p>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=65)
